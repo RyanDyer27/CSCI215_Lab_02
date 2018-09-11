@@ -1,6 +1,6 @@
 # Lab_02 - Responsive web design
 
-Name: _______________________________________
+Name: Ryan Dyer
 
 ## DUE: 10 Sep 2018 @ 11:59 pm
 
